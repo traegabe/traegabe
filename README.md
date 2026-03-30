@@ -18,7 +18,7 @@
 ## 🚀 Sobre mim
 
 - 🎓 Tenho 22 anos e sou apaixonado por desenvolvimento e tecnologia  
-- 🔭 Trabalhando em projetos como **PoliferroGestaoNF-Sistema** e **site IESM**  
+- 🔭 Trabalhando em projetos como **PoliferroGestaoNF-Sistema** e **Site IESM**  
 - 💡 Explorando novas ideias e criando soluções web e mobile  
 - 🌎 Acredito que a tecnologia pode transformar vidas  
 
