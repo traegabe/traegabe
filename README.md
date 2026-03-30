@@ -1,15 +1,15 @@
 # Olá! Eu sou o Gabriel Lopes 👨‍💻
 
 <p align="center">
-  Desenvolvedor apaixonado por tecnologia, com 22 anos e foco em projetos impactantes.
+  <i>Desenvolvedor apaixonado por tecnologia, com 22 anos e foco em projetos impactantes.</i>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-lopes-1b5bb037b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Lopes-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/Gabriel%20no%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:gabriellopescosta2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
