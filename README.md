@@ -38,7 +38,7 @@
 ![Dart](https://img.shields.io/badge/Dart-blue?style=for-the-badge&logo=dart)
 
 ### 💻 Desktop & Outras Linguagens
-![C#](https://img.shields.io/badge/CSharp-green?style=for-the-badge&logo=csharp)
+![C#](https://img.shields.io/badge/C%23-green?style=for-the-badge&logo=csharp)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 
 ---
@@ -48,7 +48,7 @@
 | 🚀 Projeto | 📄 Descrição |
 |-----------|-------------|
 | 🧾 **PoliferroGestaoNF-Sistema** | Sistema para gerenciar notas fiscais de forma digital, substituindo processos manuais e melhorando a organização. Desenvolvido em C#. |
-| 🌐 **site-iesm** | Site institucional da faculdade IESM, com apresentação de cursos, informações acadêmicas e conteúdo educacional. |
+| 🌐 **Site-IESM** | Site institucional da faculdade IESM, com apresentação de cursos, informações acadêmicas e conteúdo educacional. |
 | 💼 **Outros** | Diversos projetos pessoais e de estudo disponíveis no meu perfil. |
 
 ---
