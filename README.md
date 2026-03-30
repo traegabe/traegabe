@@ -64,7 +64,7 @@
 
 ## 📫 Como me encontrar
 
-- 💼 LinkedIn: https://www.linkedin.com/in/gabriel-lopes-1b5bb037b/  
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/gabriel-lopes-1b5bb037b/) 
 - ✉️ Email: gabriellopescosta2003@gmail.com  
 
 ---
